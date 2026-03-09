@@ -252,7 +252,7 @@ So the final version of our Svelte script is as follows:
 
 ## Question 6e - JavaScript server page to save number in a cookie `number`
 
-We can add a statement in our default from POST action in the server script, to save the number from the POST parameters into a cookied named `number`
+We can add a statement in our default from POST action in the server script, to save the number from the POST parameters into a cookie named `number`
 
 `/routes/evenform/+page.server.js`
 
